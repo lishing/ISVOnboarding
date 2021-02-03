@@ -1,6 +1,7 @@
 # ISV Onboarding - An Introduction
+
 </br>
-My passion is to work with ISVs. Throughout my conversations in the past 1 year, I consolidated these resources from the valuable conversations with ISVs. This is a repository of public resources that most ISVs would use. I had divided it into 4 sections:
+My passion is to work with high potential. Throughout my conversations in the past 1 year, I consolidated these resources from the valuable conversations with ISVs. This is a repository of public resources that most ISVs would use. I had divided it into 4 sections:
 </br>
 
 1. How you can get started with Microsoft Partner Network
